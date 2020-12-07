@@ -1,0 +1,24 @@
+Property
+	id
+	address
+	
+Review
+	id
+	propertyId
+	description
+	userId
+	
+User
+	id
+	name
+	
+Form16
+	id
+	propertyId
+	documenturl
+	assessment
+	
+BuildingInspectionReport
+	id
+	propertyId
+	documenturl
